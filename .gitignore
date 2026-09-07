@@ -1,0 +1,62 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+# *.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.outassignment complete
+*.app
+
+
+/utils/tmp
+/.vscode
+
+**/*.esld
+
+**/*.out
+
+/part-2/client
+/part-2/server
+
+/build
+cpp/build
+
+/go
+/berkeley_db
+/Part-A/build
+*/server
+*/client
+*/venv
+
+**/Doxygen/
+*/__pycache__/
+*/.vscode/
+*/.idea
+
+# DS Store files
+.DS_Store
+__pycache__/

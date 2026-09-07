@@ -1,0 +1,16 @@
+SET name "Alice"
+SET city "New York"
+SET title "DOCS-DB Part-A"
+SET language "C++"
+
+GET name
+GET city
+GET title
+DEL title
+GET title
+GET language
+GET key1
+GET key2
+GET key3
+DEL key2
+GET key2
